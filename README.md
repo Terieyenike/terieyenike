@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey, I'm Teri 👋
+
+<p>I'm a JavaScript Engineer from Nigeria in love with React and Node.</p>
+
+If I'm not coding tweeting, I'm likely shooting with my camera as a street photographer (I'm a huge art enthusiast) creating moments in pixels. See here, [Instagram](https://instagram.com/terieyenike)
+
+> There is no Yoda. Continue to work to see what you can achieve.
 
 <!--
 **Terieyenike/Terieyenike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
