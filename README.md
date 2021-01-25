@@ -1,6 +1,8 @@
 ### Hey, I'm Teri 👋
 
-<p>I'm a JavaScript Engineer based in Lagos.</p> Teri has the ability to delve into his zen as a fullstack developer.
+<p>I'm a JavaScript Engineer based in Lagos.</p> 
+
+Teri has the ability to delve into his zen as a fullstack developer.
 
 If I'm not coding tweeting, I'm likely shooting with my camera as a street photographer (I'm a huge art enthusiast) creating moments in pixels. See here, [Instagram](https://instagram.com/terieyenike)
 
