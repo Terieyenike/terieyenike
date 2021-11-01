@@ -1,4 +1,8 @@
-### Hi there 👋
+<div text-align="center">
+  <h1>Teri Eyenike</h1>  
+</div>
+
+I am a frontend React Developer
 
 <!--
 **Terieyenike/terieyenike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
