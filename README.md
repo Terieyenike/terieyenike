@@ -27,7 +27,7 @@ Hey 👋🏽, I'm Teri, a developer in technical writing at [Hackmamba](https://
 - styled-components
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=terieyenike&show_icons=true&theme=tokyonight" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=terieyenike&show_icons=true&theme=tokyonight" />
 <!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=terieyenike&theme=tokyonight" /> -->
 </p>
 
