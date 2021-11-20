@@ -2,7 +2,7 @@
   <h1>Teri Eyenike</h1>  
 </div>
 
-Hey 👋🏽, I'm Teri, a developer in technical writing at [Hackmamba](https://hackmamba.io). Previously I have worked at [Utiva](https://utiva.io) where I handled building usable UIs and resolved users request having difficulties accessing the platform. And I am an AWS Community Builder in the frontend web and mobile category 
+Hey 👋🏽, I'm Teri, a developer in technical writing at [Hackmamba](https://hackmamba.io). Previously I have worked at [Utiva](https://utiva.io) where I handled building usable UIs and resolved users request having difficulties accessing the platform. And I am an __AWS Community Builder__ in the frontend web and mobile category 
 
 <div align="left">
   <h3>About Me</h3>  
