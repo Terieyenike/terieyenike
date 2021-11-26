@@ -1,12 +1,12 @@
-<div align="left">
-  <h1>Teri Eyenike</h1>  
-</div>
+<h1 align="left">Teri Eyenike</h1>
 
-Hey 👋🏽, I'm Teri, a developer in technical writing at [Hackmamba](https://hackmamba.io). Previously I have worked at [Utiva](https://utiva.io) where I handled building usable UIs and resolved users request having difficulties accessing the platform. And I am an __AWS Community Builder__ in the frontend web and mobile category 
+[<img src="https://img.shields.io/badge/Portfolio-000000?style=flat" />](https://terieyenike.github.io/v2/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/terieyenike/) [<img src="https://img.shields.io/badge/Dev-090909?style=flat&logo=dev.to&logoColor=white" />](https://dev.to/terieyenike) [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />](https://twitter.com/terieyenike)
 
-<div align="left">
-  <h3>About Me</h3>  
-</div> 
+
+Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Teri, a developer in technical writing at [Hackmamba](https://hackmamba.io). Previously I have worked at [Utiva](https://utiva.io) where I handled building usable UIs and resolved users request having difficulties accessing the platform. And I am an __AWS Community Builder__ in the frontend web and mobile category. I believe so much in kaizen.
+
+
+<h3 align="left">About Me</h3>  
 
 <!-- - 🔭 I’m currently working on  -->
 - 🌱 I’m currently learning: How to build 8 composable reusable components with React [here](https://scrimba.com/learn/learnreact)
@@ -26,9 +26,11 @@ Hey 👋🏽, I'm Teri, a developer in technical writing at [Hackmamba](https://
 - Heroku
 - styled-components
 
+### Stats
+
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=terieyenike&show_icons=true&theme=tokyonight" />
-<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=terieyenike&theme=tokyonight" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=terieyenike&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=terieyenike&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=tokyonight" />
 </p>
 
 
@@ -47,3 +49,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=terieyenike&theme=tokyonight" /> -->
