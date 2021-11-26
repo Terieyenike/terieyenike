@@ -26,9 +26,7 @@ Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/w
 - Heroku
 - styled-components
 
-### Stats
-
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=terieyenike&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=terieyenike&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=tokyonight" />
 </p>
