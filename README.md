@@ -3,13 +3,15 @@
 [<img src="https://img.shields.io/badge/Portfolio-000000?style=flat" />](https://terieyenike.github.io/v2/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/terieyenike/) [<img src="https://img.shields.io/badge/Dev-090909?style=flat&logo=dev.to&logoColor=white" />](https://dev.to/terieyenike) [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />](https://twitter.com/terieyenike)
 
 
-Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Teri, a developer in technical writing at [Hackmamba](https://hackmamba.io). Previously I have worked at [Utiva](https://utiva.io) where I handled building usable UIs and resolved users request having difficulties accessing the platform. And I am an __AWS Community Builder__ in the frontend web and mobile category. I believe so much in kaizen.
+Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Teri, a developer in technical writing at [Hackmamba](https://hackmamba.io). In addition, I am an __AWS Community Builder__ in the frontend web and mobile category and an HackerNoon Contributing Writer and Fellow. 
+
+I believe so much in kaizen.
 
 
 <h3 align="left">About Me</h3>  
 
 <!-- - 🔭 I’m currently working on  -->
-- 🌱 I’m currently learning: How to build 8 composable reusable components with React [here](https://scrimba.com/learn/learnreact)
+- 🌱 I’m currently partaking: 24 days of #JavaScriptmas [here](https://scrimba.com/learn/javascriptmas2021)
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about web development with JavaScript and possibly in future, web 3.0 and blockchain
 - 🌐 Last project I built: [Digital Business Card](https://5osh7.csb.app/)
@@ -32,7 +34,7 @@ Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/w
 </p>
 
 
-
+<!-- Previously I have worked at [Utiva](https://utiva.io) where I handled building usable UIs and resolved users request having difficulties accessing the platform.  -->
 <!--
 **Terieyenike/terieyenike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
