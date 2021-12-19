@@ -28,13 +28,19 @@ I believe so much in kaizen.
 - Heroku
 - styled-components
 
+### Speaking
+- How to become a technical writer
+
+You can listen to the recorded session on Clubhouse, [here](https://www.clubhouse.com/room/MRDwbLX5) and a resource for the talk, [here](https://www.figma.com/file/prtuOAoH6aLIeSbAt56Pea/Technical-writing?node-id=0%3A1)
+
+
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=terieyenike&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=terieyenike&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=tokyonight" />
 </p>
 
 
-<!-- Previously I have worked at [Utiva](https://utiva.io) where I handled building usable UIs and resolved users request having difficulties accessing the platform.  -->
 <!--
 **Terieyenike/terieyenike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
