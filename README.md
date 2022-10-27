@@ -15,6 +15,9 @@ He writes content and treats content as a product using modern technologies.
 * 🤝  I'm open to collaborating on Projects and speaking engagements
 * ⚡  I love water sport (kayak), street photography, and travel.
 
+* 👷 Currently building a smart shopping list app with my team at [The Collab Lab](https://the-collab-lab.codes/) with React and Firebase. 
+
+
 ### Skills
 
 
