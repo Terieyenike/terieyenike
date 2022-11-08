@@ -17,9 +17,12 @@ He writes content and treats content as a product using modern technologies.
 
 * 👷 Currently building a smart shopping list app with my team at [The Collab Lab](https://the-collab-lab.codes/) with React and Firebase. 
 
+### Awards
+
+[![@teri's Holopin board](https://holopin.me/teri)](https://holopin.io/@teri)
+
 
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
