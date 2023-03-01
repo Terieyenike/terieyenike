@@ -9,7 +9,7 @@ Teri Eyenike is a software developer with experience in web development and tech
 He writes content and treats content as a product using modern technologies. 
 
 * 🌍  I'm based in Lagos
-* 🖥️  See my portfolio, [Check me out on the web](http://terieyenike.github.io/v2)
+* 🖥️  See my portfolio, [Check me out on the web](https://iamteri.tech)
 * ✉️  You can contact me at [teyenike1@gmail.com](mailto:teyenike1@gmail.com)
 * 🧠  I'm learning AWS, Web 3, Go, and Rust
 * 🤝  I'm open to collaborating on Projects and speaking engagements
