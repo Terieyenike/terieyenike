@@ -11,5 +11,5 @@ Software Developer who documents through technical writing and learning.
 
 ## Here's where you can find me:
 
-[iamteri.tech](https://iamteri.tech) - personal website
-[@terieyenike](https://twitter.com/terieyenike)
+- [iamteri.tech](https://iamteri.tech) - personal website
+- [@terieyenike](https://twitter.com/terieyenike)
