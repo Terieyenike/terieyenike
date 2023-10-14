@@ -13,3 +13,8 @@ Software Developer who documents through technical writing and learning.
 
 - [iamteri.tech](https://iamteri.tech) - personal website
 - [@terieyenike](https://twitter.com/terieyenike) on Twitter
+
+
+## Technical writing samples
+
+- [Web Scraping with Node.js: The Best Tools to Use](https://www.scraperapi.com/blog/best-nodejs-scraping-tools/)
