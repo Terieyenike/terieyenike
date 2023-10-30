@@ -22,6 +22,6 @@ Software Developer who documents through code, technical writing, and learning.
 - [Web Scraping with Node.js: The Best Tools to Use](https://www.scraperapi.com/blog/best-nodejs-scraping-tools/)
 
 
-## Hackathon participation
+## Hackathon
 
 - [Xata content hackathon winner](https://dev.to/terieyenike/building-an-efficient-waitlist-app-with-nextjs-and-xata-caf)
