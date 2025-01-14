@@ -16,12 +16,6 @@ Software Developer who documents through code, technical writing, and learning.
 - [@terieyenike](https://twitter.com/terieyenike) on Twitter
 - ['Teri Eyenike](https://linkedin.com/in/terieyenike) on LinkedIn
 
-
-## Technical writing samples
-
-- [Web Scraping with Node.js: The Best Tools to Use](https://www.scraperapi.com/blog/best-nodejs-scraping-tools/)
-
-
 ## Hackathon
 
 - [Xata content hackathon winner](https://dev.to/terieyenike/building-an-efficient-waitlist-app-with-nextjs-and-xata-caf)
