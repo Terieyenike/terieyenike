@@ -13,3 +13,6 @@ Software Developer / Data Analyst who documents through code, technical writing,
 ## Hackathon
 
 - [Xata content hackathon winner](https://dev.to/terieyenike/building-an-efficient-waitlist-app-with-nextjs-and-xata-caf)
+
+
+Want to support me? You can [buy me coffee](https://buymeacoffee.com/teyenike1l).
