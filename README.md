@@ -1,20 +1,14 @@
 # Hey there, I'm Teri!
 
-Software Developer who documents through code, technical writing, and learning.
+Software Developer / Data Analyst who documents through code, technical writing, and learning.
 
 ## Here's what I'm up to right now:
 
-- I do lots of front-end (HTML, CSS, JavaScript) stuff through weekend projects and hackathons
-- I am an open-source maintainer to [LinkTree](https://github.com/Terieyenike/linktree/) Django project
+<!-- - I do lots of front-end (HTML, CSS, JavaScript) stuff through weekend projects and hackathons -->
+<!-- - I am an open-source maintainer to [LinkTree](https://github.com/Terieyenike/linktree/) Django project -->
+- I do stuff with data as an analyst
 - I am a speaker at tech conferences and meetups
-- I have fun with Python and the backend with Node.js. 
-
-
-## Here's where you can find me:
-
-- [iamteri.tech](https://iamteri.tech) - personal website
-- [@terieyenike](https://twitter.com/terieyenike) on Twitter
-- ['Teri Eyenike](https://linkedin.com/in/terieyenike) on LinkedIn
+- I have fun with Python and JavaScript. 
 
 ## Hackathon
 
