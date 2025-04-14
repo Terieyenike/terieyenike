@@ -6,8 +6,8 @@ Software Developer who documents through code, technical writing, and learning.
 
 <!-- - I do lots of front-end (HTML, CSS, JavaScript) stuff through weekend projects and hackathons -->
 <!-- - I am an open-source maintainer to [LinkTree](https://github.com/Terieyenike/linktree/) Django project -->
-- I do stuff with data as an analyst
-- I am a speaker at tech conferences and meetups
+- Right now, I do stuff with DevOps and the Cloud.
+- I am a speaker at tech conferences and meetups.
 - I have fun with Python and JavaScript. 
 
 ## Hackathon
